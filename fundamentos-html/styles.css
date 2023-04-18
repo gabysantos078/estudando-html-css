@@ -1,0 +1,19 @@
+/* 
+cor rosa
+tamanho fonte 40
+cor de fundo cyan
+familia da fonte arial
+arredondamento de borda de 8px
+uma box shadow customizada
+quero que o quadrado seja do tamanho do texto.
+*/
+
+h1 {
+    color: rgb(255, 1, 179);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 8px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    background-color: cyan;
+    margin-right: 56.5%;
+}
