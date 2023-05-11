@@ -1,0 +1,37 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+  }
+
+table{
+    border: solid;
+    align-items: center;
+
+}
+
+th{
+    background-color: #4b4fbb;
+    color: #700a72;
+    font-size: medium;
+    font-style: oblique;
+    border: solid;
+}
+
+td{
+    background-color: #f7baf8;
+    color: #17183A;
+    font-size: medium;
+    border: solid;
+    border-color: rgb(0, 46, 46);
+    text-align: center;
+}
+
+th, td {
+    padding: 25px;
+  }
+
+  td:nth-child(even), th:nth-child(even) {
+    background-color: #D6EEEE;
+  }

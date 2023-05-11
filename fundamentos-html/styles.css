@@ -8,7 +8,8 @@ uma box shadow customizada
 quero que o quadrado seja do tamanho do texto.
 */
 
-h1 {
+
+h1.all {
     color: rgb(255, 1, 179);
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
