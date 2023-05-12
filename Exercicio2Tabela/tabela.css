@@ -1,0 +1,28 @@
+table{
+  border: solid;
+  border-radius: 5px;
+  width: 90%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+tr{
+  background-color: #AA4586;
+  color: cyan;
+  padding: 12px;
+  width: 90px;
+}
+
+th{
+  padding: 8px;
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  background-color: #99FFC2;
+  color: black;
+}
+
+td:nth-child(even){background-color: #5CFF9D;}
